@@ -2747,11 +2747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maith/Desktop/CsharpBlog/Blog/Blog.csproj",
+      "projectUniqueName": "/home/maith/Desktop/CSharpBlog/Blog/Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "/home/maith/Desktop/CsharpBlog/Blog/Blog.csproj",
+      "projectPath": "/home/maith/Desktop/CSharpBlog/Blog/Blog.csproj",
       "packagesPath": "/home/maith/.nuget/packages/",
-      "outputPath": "/home/maith/Desktop/CsharpBlog/Blog/obj/",
+      "outputPath": "/home/maith/Desktop/CSharpBlog/Blog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/maith/.nuget/NuGet/NuGet.Config"

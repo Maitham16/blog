@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/home/maith/Desktop/CsharpBlog/Blog/obj/Debug/net7.0/project.razor.json",
-  "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Blog.csproj",
+  "SerializedFilePath": "/home/maith/Desktop/CSharpBlog/Blog/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Blog.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -13,11 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-<<<<<<< HEAD
-        "HashCode": 905282221,
-=======
-        "HashCode": 1317956011,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1609442401,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -101,11 +97,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1629828606,
-=======
-        "HashCode": -596316152,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -530113345,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -190,11 +182,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -630898945,
-=======
-        "HashCode": -946542007,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -687507981,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -227,11 +215,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -723105009,
-=======
-        "HashCode": -199493693,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -204953041,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -265,11 +249,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1848173799,
-=======
-        "HashCode": 710595910,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 832989303,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -290,11 +270,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -734120162,
-=======
-        "HashCode": -1496479019,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 426862594,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -316,11 +292,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -650254668,
-=======
-        "HashCode": -1186206912,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1876112529,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -425,11 +397,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 660771049,
-=======
-        "HashCode": 1836325132,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 813979331,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -535,11 +503,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -164233256,
-=======
-        "HashCode": -1146314268,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1252437661,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -572,11 +536,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -500714032,
-=======
-        "HashCode": 1681009072,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1342576801,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -610,11 +570,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 239144916,
-=======
-        "HashCode": 38055950,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -921752519,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -647,11 +603,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1811177069,
-=======
-        "HashCode": 293599087,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1951862171,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -685,11 +637,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 336747289,
-=======
-        "HashCode": 675592826,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1798565979,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -722,11 +670,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1808652056,
-=======
-        "HashCode": 582736043,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1168829167,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -760,11 +704,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -527519008,
-=======
-        "HashCode": 1256816869,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1430860739,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -785,11 +725,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1798914164,
-=======
-        "HashCode": -277543795,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 481779179,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -811,11 +747,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 507984413,
-=======
-        "HashCode": 775114142,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 882202915,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -846,11 +778,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1584493177,
-=======
-        "HashCode": 1143385067,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2118040079,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -882,11 +810,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1179878150,
-=======
-        "HashCode": -1366086824,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -689202084,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -907,11 +831,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 515752350,
-=======
-        "HashCode": -1581361479,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1323726207,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -933,11 +853,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1539619805,
-=======
-        "HashCode": 841707872,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1522355235,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1012,11 +928,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1758747073,
-=======
-        "HashCode": -1619828542,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2139102594,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1092,11 +1004,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1446516023,
-=======
-        "HashCode": -872985102,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1181109257,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1117,11 +1025,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2042998424,
-=======
-        "HashCode": 1538663972,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1948563879,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1143,11 +1047,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 426638789,
-=======
-        "HashCode": -132864181,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 480689540,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1189,11 +1089,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1609681146,
-=======
-        "HashCode": 834650003,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -184299436,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1236,11 +1132,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1643369656,
-=======
-        "HashCode": 431642869,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 87987398,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1282,11 +1174,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -403731152,
-=======
-        "HashCode": 589530614,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 346184472,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1329,11 +1217,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 94435211,
-=======
-        "HashCode": 1711030597,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1527985433,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1354,11 +1238,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1639904055,
-=======
-        "HashCode": 1325140117,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 217989029,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1380,11 +1260,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 463888173,
-=======
-        "HashCode": 1730505989,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1349124942,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1426,11 +1302,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -71803860,
-=======
-        "HashCode": 1341972920,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1434152025,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1473,11 +1345,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1334362348,
-=======
-        "HashCode": -1797153019,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -103408254,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1585,11 +1453,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -540030764,
-=======
-        "HashCode": 918878275,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -115231753,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1698,11 +1562,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 459949017,
-=======
-        "HashCode": -1481593813,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1134456412,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1723,11 +1583,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1841954513,
-=======
-        "HashCode": -918402084,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -762855637,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1749,11 +1605,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 248766697,
-=======
-        "HashCode": -1318951075,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 781803730,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1786,11 +1638,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1169656307,
-=======
-        "HashCode": 1898153132,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -465421925,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1824,11 +1672,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1900651968,
-=======
-        "HashCode": 863797804,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1555886393,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1849,11 +1693,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1448368499,
-=======
-        "HashCode": 181856998,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 427864041,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1875,11 +1715,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1180104766,
-=======
-        "HashCode": -928385940,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1432166930,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1898,11 +1734,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 867496397,
-=======
-        "HashCode": -543469926,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1845432173,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1922,11 +1754,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -337894490,
-=======
-        "HashCode": -505836059,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1464113495,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2031,11 +1859,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1260763308,
-=======
-        "HashCode": 1636821028,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2037252756,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2141,11 +1965,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1021294622,
-=======
-        "HashCode": 822263979,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2033802912,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2178,11 +1998,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2003227233,
-=======
-        "HashCode": -1511645191,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -878308531,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2216,11 +2032,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 719929117,
-=======
-        "HashCode": 2039658173,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1657636435,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2292,11 +2104,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1235532513,
-=======
-        "HashCode": -857815846,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1603008272,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2369,11 +2177,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1629585279,
-=======
-        "HashCode": 107834735,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -441778735,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2481,11 +2285,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 661169760,
-=======
-        "HashCode": 1816340621,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2077972799,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2594,11 +2394,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2138386907,
-=======
-        "HashCode": 1925214094,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1179238,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2640,11 +2436,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 333678695,
-=======
-        "HashCode": -1942438619,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 592306931,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2687,11 +2479,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 265115798,
-=======
-        "HashCode": 1538067552,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1162354691,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2788,11 +2576,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1403466744,
-=======
-        "HashCode": -1808222886,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2024784148,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2890,11 +2674,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1172059856,
-=======
-        "HashCode": 88375780,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 445638340,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2958,11 +2738,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -550647240,
-=======
-        "HashCode": -128915226,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1753423900,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3027,11 +2803,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 601577970,
-=======
-        "HashCode": -357342305,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2089893095,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3139,11 +2911,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1224390020,
-=======
-        "HashCode": 1387741351,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -760742861,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3252,11 +3020,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 105952509,
-=======
-        "HashCode": -794321733,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1652371318,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3277,11 +3041,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1199987434,
-=======
-        "HashCode": 872910831,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -170819914,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3303,11 +3063,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1450304601,
-=======
-        "HashCode": -307884111,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1076482254,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3405,11 +3161,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -884416400,
-=======
-        "HashCode": 1911098864,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1072718431,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3508,11 +3260,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -725619573,
-=======
-        "HashCode": -699138966,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1752333526,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3533,11 +3281,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -525126311,
-=======
-        "HashCode": -239505865,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -875906960,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3559,11 +3303,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -138092168,
-=======
-        "HashCode": -1075356442,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 517424603,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3635,11 +3375,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -771988390,
-=======
-        "HashCode": 1983276428,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 11944506,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3712,11 +3448,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1167707630,
-=======
-        "HashCode": 1133740213,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1075671260,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3788,11 +3520,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1570317159,
-=======
-        "HashCode": -1648657510,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -429600833,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3865,11 +3593,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 187576455,
-=======
-        "HashCode": -1877108705,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1947928060,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3923,11 +3647,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -975739626,
-=======
-        "HashCode": -2119487275,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -930672427,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3982,11 +3702,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -731067710,
-=======
-        "HashCode": 1586238628,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -467947662,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4027,11 +3743,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1722551666,
-=======
-        "HashCode": 261328689,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -486917989,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4073,11 +3785,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -808780543,
-=======
-        "HashCode": -194640958,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 933566537,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4118,11 +3826,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1146599473,
-=======
-        "HashCode": -1746789819,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -233532738,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4164,11 +3868,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1970308297,
-=======
-        "HashCode": 106896693,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1063009707,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4210,11 +3910,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 260460199,
-=======
-        "HashCode": -575351138,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1968962714,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4257,11 +3953,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1009607403,
-=======
-        "HashCode": -704321632,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1188310755,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4324,11 +4016,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1135449031,
-=======
-        "HashCode": -560194206,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1127587509,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4392,11 +4080,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 320116718,
-=======
-        "HashCode": -1972365397,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1686570205,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4417,11 +4101,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1294517195,
-=======
-        "HashCode": 1686108821,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1748204330,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4443,11 +4123,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1014525738,
-=======
-        "HashCode": -335533045,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1713175607,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4479,11 +4155,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 702152065,
-=======
-        "HashCode": -1708307763,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 922548170,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4516,11 +4188,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1899130289,
-=======
-        "HashCode": 237749683,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 522742963,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4541,11 +4209,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -52313467,
-=======
-        "HashCode": -306743164,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1319742923,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4567,11 +4231,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1054829853,
-=======
-        "HashCode": -282507740,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 970581726,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4590,11 +4250,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 765311619,
-=======
-        "HashCode": 1047215288,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1209276633,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4614,11 +4270,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1004157894,
-=======
-        "HashCode": -804578712,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -931145946,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4650,11 +4302,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -903979573,
-=======
-        "HashCode": 1426105362,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1090509401,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4687,11 +4335,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 126748713,
-=======
-        "HashCode": 464802338,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1170145761,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4712,11 +4356,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2006823879,
-=======
-        "HashCode": -1992913395,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -675335972,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4738,11 +4378,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -903901530,
-=======
-        "HashCode": -267075475,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1688754176,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4805,11 +4441,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 833424146,
-=======
-        "HashCode": 1653448559,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1258198588,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4873,11 +4505,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1352560460,
-=======
-        "HashCode": 1626784139,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1985662385,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4898,11 +4526,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -291886209,
-=======
-        "HashCode": -174663719,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1857285165,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4924,11 +4548,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -221090100,
-=======
-        "HashCode": -268699902,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1922601764,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4961,11 +4581,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 679797482,
-=======
-        "HashCode": 440766711,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1176292525,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4999,11 +4615,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1692146230,
-=======
-        "HashCode": -1046867763,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1213099296,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5135,11 +4747,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -476684610,
-=======
-        "HashCode": 523625912,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1760681737,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5272,11 +4880,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2120145925,
-=======
-        "HashCode": 2000828174,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1878293600,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5309,11 +4913,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -568131961,
-=======
-        "HashCode": 1913155192,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -361034788,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5347,11 +4947,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1803310172,
-=======
-        "HashCode": -1990122807,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1969676267,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5384,11 +4980,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -823120735,
-=======
-        "HashCode": 1220107040,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1261212975,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5422,11 +5014,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 577978520,
-=======
-        "HashCode": 1192425912,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1462882975,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5459,11 +5047,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1334496022,
-=======
-        "HashCode": 1398636101,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -119632036,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5497,11 +5081,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 621124692,
-=======
-        "HashCode": 1924839144,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2087736488,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5584,11 +5164,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -778180653,
-=======
-        "HashCode": 931605249,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1741244242,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5671,11 +5247,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1424274454,
-=======
-        "HashCode": 757910032,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -529186524,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5758,11 +5330,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1429272356,
-=======
-        "HashCode": 1470287780,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2114267393,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5845,11 +5413,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -802593676,
-=======
-        "HashCode": -1637512141,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1109566793,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5932,11 +5496,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 73264213,
-=======
-        "HashCode": -1314863867,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1471260162,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6019,11 +5579,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2141011822,
-=======
-        "HashCode": -2067465260,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -659202110,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6106,11 +5662,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -971360186,
-=======
-        "HashCode": -730094916,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -793319801,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6193,11 +5745,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2034280257,
-=======
-        "HashCode": 1302993586,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 152357621,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6280,11 +5828,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 740890688,
-=======
-        "HashCode": -317082229,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1311242647,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6367,11 +5911,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 341177847,
-=======
-        "HashCode": -1362279579,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -691371443,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6454,11 +5994,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 810584131,
-=======
-        "HashCode": -1366864357,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 476515909,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6541,11 +6077,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 62310469,
-=======
-        "HashCode": 418408687,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1487808875,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6628,11 +6160,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1251439005,
-=======
-        "HashCode": 831838,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1000241767,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6715,11 +6243,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -657541021,
-=======
-        "HashCode": 789767961,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1806235127,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6802,11 +6326,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 394678164,
-=======
-        "HashCode": 435481608,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -773112604,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6889,11 +6409,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1903746481,
-=======
-        "HashCode": -1820813504,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1895494769,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6976,11 +6492,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1738868843,
-=======
-        "HashCode": 284907442,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1683944288,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7063,11 +6575,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 217322583,
-=======
-        "HashCode": -108918116,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -395865556,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7150,11 +6658,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1687923682,
-=======
-        "HashCode": 627941446,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1587795862,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7237,11 +6741,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1552092208,
-=======
-        "HashCode": 1727654224,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1546269121,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7324,11 +6824,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1200313310,
-=======
-        "HashCode": 1195826543,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -262999424,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7411,11 +6907,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1226245111,
-=======
-        "HashCode": -362703936,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 685122039,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7498,11 +6990,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -969367387,
-=======
-        "HashCode": -757846638,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 248749567,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7585,11 +7073,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1327726585,
-=======
-        "HashCode": -179977202,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1017732514,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7672,11 +7156,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -946568968,
-=======
-        "HashCode": 1717717890,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1604507973,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7759,11 +7239,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 869669401,
-=======
-        "HashCode": 304205725,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 665745689,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7846,11 +7322,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 568565047,
-=======
-        "HashCode": 213378443,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -611291467,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7933,11 +7405,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2062689603,
-=======
-        "HashCode": -1510661951,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -600793797,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8020,11 +7488,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -598694758,
-=======
-        "HashCode": -1366765910,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2113047190,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8107,11 +7571,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 861360370,
-=======
-        "HashCode": -2077816533,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1679620106,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8194,11 +7654,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2015220167,
-=======
-        "HashCode": 671875336,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1961802491,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8281,11 +7737,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -781319801,
-=======
-        "HashCode": -1077279396,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 104047351,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8368,11 +7820,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1842807156,
-=======
-        "HashCode": 1650610962,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -967881580,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8455,11 +7903,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -243070316,
-=======
-        "HashCode": 1529533113,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1323108829,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8542,11 +7986,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1381815084,
-=======
-        "HashCode": 202278010,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1617073024,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8629,11 +8069,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1056265927,
-=======
-        "HashCode": -538635240,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1920045065,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8716,11 +8152,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2025207591,
-=======
-        "HashCode": -1694583547,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -849728131,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8803,11 +8235,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -386347773,
-=======
-        "HashCode": -887585021,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 327226274,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8890,11 +8318,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1298135976,
-=======
-        "HashCode": -221064966,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 601767728,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8977,11 +8401,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 647760815,
-=======
-        "HashCode": 1644345368,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1200644723,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9064,11 +8484,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2132616884,
-=======
-        "HashCode": 652443066,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 330995899,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9151,11 +8567,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1794519527,
-=======
-        "HashCode": -1476633106,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1946055218,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9238,11 +8650,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 421325258,
-=======
-        "HashCode": -613742772,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1232593339,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9325,11 +8733,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 201454134,
-=======
-        "HashCode": -1691628295,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -800380012,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9412,11 +8816,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1734424922,
-=======
-        "HashCode": 1929125931,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1967349162,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9499,11 +8899,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -911364875,
-=======
-        "HashCode": 615111676,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 954756389,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9586,11 +8982,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2114801841,
-=======
-        "HashCode": -1503252498,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1735080059,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9673,11 +9065,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 619836911,
-=======
-        "HashCode": -471786316,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1214782861,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9760,11 +9148,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 688731680,
-=======
-        "HashCode": 465143408,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2053162645,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9847,11 +9231,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -995865927,
-=======
-        "HashCode": 36776163,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1472502348,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9934,11 +9314,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1778802871,
-=======
-        "HashCode": -455285503,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -510547179,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10021,11 +9397,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2047752661,
-=======
-        "HashCode": 728823824,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1741045185,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10108,11 +9480,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1897801881,
-=======
-        "HashCode": -1605595463,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1169399703,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10195,11 +9563,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1824282335,
-=======
-        "HashCode": 1780399567,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1927391988,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10282,11 +9646,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 628704665,
-=======
-        "HashCode": -2117149081,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1017165884,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10369,11 +9729,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1322883427,
-=======
-        "HashCode": 1286249858,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -751694600,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10456,11 +9812,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -517246105,
-=======
-        "HashCode": -2121360887,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -576397673,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10543,11 +9895,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1224870728,
-=======
-        "HashCode": 391704319,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 739638785,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10630,11 +9978,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1906624715,
-=======
-        "HashCode": 1847076288,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1717712678,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10717,11 +10061,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1863155236,
-=======
-        "HashCode": -644745723,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 305183791,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10804,11 +10144,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1209457622,
-=======
-        "HashCode": -1389722518,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1760866960,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10891,11 +10227,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1667791575,
-=======
-        "HashCode": -955785771,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -305442117,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10978,11 +10310,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -94141774,
-=======
-        "HashCode": -2007425922,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2070366930,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11065,11 +10393,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1222749153,
-=======
-        "HashCode": -750008895,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 110766733,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11152,11 +10476,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1213085433,
-=======
-        "HashCode": -1856654747,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -432852435,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11239,11 +10559,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1223845212,
-=======
-        "HashCode": -643956958,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 49947937,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11326,11 +10642,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -225164352,
-=======
-        "HashCode": -1544181478,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1244058186,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11413,11 +10725,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 432923306,
-=======
-        "HashCode": -1286026403,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 807211241,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11500,11 +10808,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1950651607,
-=======
-        "HashCode": -945081308,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -117002960,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11587,11 +10891,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1504167036,
-=======
-        "HashCode": -1391670524,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -706375575,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11674,11 +10974,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1292892565,
-=======
-        "HashCode": 844124649,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -700683497,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11761,11 +11057,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2091964549,
-=======
-        "HashCode": -2014813510,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 89942601,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11848,11 +11140,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1268745679,
-=======
-        "HashCode": 895905799,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1517782959,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11935,11 +11223,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -998939743,
-=======
-        "HashCode": 511963016,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2073478514,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12022,11 +11306,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -522635953,
-=======
-        "HashCode": -710756212,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1397774235,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12109,11 +11389,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 704300112,
-=======
-        "HashCode": 506645899,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1096971934,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12196,11 +11472,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 711286443,
-=======
-        "HashCode": 1823612948,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1965602017,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12283,11 +11555,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1915664488,
-=======
-        "HashCode": -298003332,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1927912721,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12370,11 +11638,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -288886389,
-=======
-        "HashCode": 1518700767,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1198568629,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12457,11 +11721,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1296661462,
-=======
-        "HashCode": -370883843,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -303447037,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12544,11 +11804,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1220539172,
-=======
-        "HashCode": -1546889884,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -758734742,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12631,11 +11887,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1024193990,
-=======
-        "HashCode": -1335400265,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1154975999,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12718,11 +11970,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 329018446,
-=======
-        "HashCode": 1019355381,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1169410170,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12805,11 +12053,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 181947463,
-=======
-        "HashCode": -111904498,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1478571173,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12892,11 +12136,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1447903612,
-=======
-        "HashCode": 1285431678,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 531277445,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12979,11 +12219,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1137034302,
-=======
-        "HashCode": 1252771830,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1051842461,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13066,11 +12302,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 309505179,
-=======
-        "HashCode": 1066217411,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -180180610,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13153,11 +12385,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1432162209,
-=======
-        "HashCode": -1175820156,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 958829464,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13240,11 +12468,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1147912064,
-=======
-        "HashCode": 799810272,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -688948193,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13327,11 +12551,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 929709971,
-=======
-        "HashCode": -181283937,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 662412919,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13414,11 +12634,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 919391685,
-=======
-        "HashCode": 1861458536,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 701532704,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13501,11 +12717,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -746617343,
-=======
-        "HashCode": 1876674895,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1158801808,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13588,11 +12800,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1565236731,
-=======
-        "HashCode": 1258667397,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1585730934,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13675,11 +12883,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1433093711,
-=======
-        "HashCode": -291179274,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1458213614,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13718,11 +12922,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -61803245,
-=======
-        "HashCode": 998996647,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1247736887,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -14039,11 +13239,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -709180634,
-=======
-        "HashCode": 975099501,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1814700404,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14242,11 +13438,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 560782448,
-=======
-        "HashCode": -1424181151,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1808603164,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14375,11 +13567,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1402842066,
-=======
-        "HashCode": -604370696,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1466467400,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14436,11 +13624,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1561019397,
-=======
-        "HashCode": 1649711383,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1807919894,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14574,11 +13758,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 72919182,
-=======
-        "HashCode": -544990054,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1269640200,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14626,11 +13806,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -822202325,
-=======
-        "HashCode": -1244286077,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -801815836,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15049,11 +14225,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 125529988,
-=======
-        "HashCode": -1131186355,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 778546158,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15157,11 +14329,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -406657313,
-=======
-        "HashCode": -639403836,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1631439637,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15209,11 +14377,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2123845847,
-=======
-        "HashCode": 647745063,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2010156080,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15285,11 +14449,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 510014123,
-=======
-        "HashCode": 1834487852,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1487000423,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15324,11 +14484,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1722086896,
-=======
-        "HashCode": -140758297,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 944275284,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15526,11 +14682,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1542890577,
-=======
-        "HashCode": -702273674,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 377362121,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15560,11 +14712,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1559207138,
-=======
-        "HashCode": -1665775614,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 956755628,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15647,11 +14795,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1408402695,
-=======
-        "HashCode": -1480018385,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 2090270882,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15682,11 +14826,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -771625426,
-=======
-        "HashCode": -1621811424,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1555034676,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15841,11 +14981,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1036202545,
-=======
-        "HashCode": -419659683,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -10500403,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15906,11 +15042,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1793707008,
-=======
-        "HashCode": 1691451767,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1413089435,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15954,11 +15086,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1091496450,
-=======
-        "HashCode": 440861790,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -977724448,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15993,11 +15121,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1637159248,
-=======
-        "HashCode": 1788828249,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -651126106,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16033,11 +15157,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -470749301,
-=======
-        "HashCode": 1764880081,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -656634411,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16133,11 +15253,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 824948868,
-=======
-        "HashCode": 1055985052,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1865343611,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16259,11 +15375,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1047507809,
-=======
-        "HashCode": -720072335,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1768859162,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16385,11 +15497,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1795498765,
-=======
-        "HashCode": -482748,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -353544323,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16522,11 +15630,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2026154887,
-=======
-        "HashCode": 2070853379,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2106400019,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16659,11 +15763,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 538469800,
-=======
-        "HashCode": -589898351,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -155444698,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16796,11 +15896,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 668175521,
-=======
-        "HashCode": -1743385570,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 268323100,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16933,11 +16029,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1531083682,
-=======
-        "HashCode": 1027837206,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1245348633,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17070,11 +16162,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1347151648,
-=======
-        "HashCode": 1855636594,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1065810751,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17207,11 +16295,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1696472445,
-=======
-        "HashCode": 1343093019,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 519814293,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17344,11 +16428,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1359739901,
-=======
-        "HashCode": -376646335,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -2119219845,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17481,11 +16561,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1729221599,
-=======
-        "HashCode": -1005374080,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -681257559,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17618,11 +16694,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -238958586,
-=======
-        "HashCode": -41802316,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -462454106,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17755,11 +16827,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -929341925,
-=======
-        "HashCode": 1064557833,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1024919904,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17892,11 +16960,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1526732160,
-=======
-        "HashCode": -2077993221,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 796857718,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18029,11 +17093,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1525759098,
-=======
-        "HashCode": -773988140,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1470507723,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18155,11 +17215,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 138169162,
-=======
-        "HashCode": 29942788,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -768497677,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18281,11 +17337,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -578464615,
-=======
-        "HashCode": -1696176059,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 714177221,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18372,11 +17424,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1838833991,
-=======
-        "HashCode": -910580292,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 253203631,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18464,11 +17512,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -691184614,
-=======
-        "HashCode": 815202146,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1819745251,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18555,11 +17599,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -233778224,
-=======
-        "HashCode": -127106899,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 661242838,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18647,11 +17687,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2048706454,
-=======
-        "HashCode": -1260529758,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1124599631,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18738,11 +17774,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -325715794,
-=======
-        "HashCode": -2083641460,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -1756156763,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18830,11 +17862,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -778349514,
-=======
-        "HashCode": 935265348,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -501487369,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18921,11 +17949,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1996022642,
-=======
-        "HashCode": -2142079854,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1066802527,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19013,11 +18037,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1415324667,
-=======
-        "HashCode": -640112441,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1993469366,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19104,11 +18124,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1858607134,
-=======
-        "HashCode": 1172497438,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -645587300,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19196,11 +18212,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -356094689,
-=======
-        "HashCode": 452285918,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -634261628,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19287,11 +18299,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1461090054,
-=======
-        "HashCode": -986341903,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -642731042,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19379,11 +18387,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1665625712,
-=======
-        "HashCode": -850366902,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": -66390477,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19470,11 +18474,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1607141436,
-=======
-        "HashCode": 1903630907,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 52249200,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19562,11 +18562,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1172208811,
-=======
-        "HashCode": -143756310,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 1794840949,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19605,11 +18601,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -359438630,
-=======
-        "HashCode": 1217811497,
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
+        "HashCode": 291020345,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19653,95 +18645,54 @@
   "RootNamespace": "Blog",
   "Documents": [
     {
-<<<<<<< HEAD
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Home/Create.cshtml",
-      "TargetPath": "Views\\Home\\Create.cshtml",
-=======
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Edit.cshtml",
-      "TargetPath": "Views\\Post\\Edit.cshtml",
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Home/Edit.cshtml",
-      "TargetPath": "Views\\Home\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Home/Delete.cshtml",
-      "TargetPath": "Views\\Home\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-=======
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Home/Details.cshtml",
-      "TargetPath": "Views\\Home\\Details.cshtml",
-=======
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Index.cshtml",
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Index.cshtml",
       "TargetPath": "Views\\Post\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Delete.cshtml",
-      "TargetPath": "Views\\Post\\Delete.cshtml",
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/_Layout.cshtml",
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Details.cshtml",
+      "TargetPath": "Views\\Post\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Edit.cshtml",
+      "TargetPath": "Views\\Post\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Create.cshtml",
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Delete.cshtml",
+      "TargetPath": "Views\\Post\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Create.cshtml",
       "TargetPath": "Views\\Post\\Create.cshtml",
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "FilePath": "/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Details.cshtml",
-      "TargetPath": "Views\\Post\\Details.cshtml",
-      "FileKind": "mvc"
->>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
     }
   ],
   "SerializationFormat": "0.3"

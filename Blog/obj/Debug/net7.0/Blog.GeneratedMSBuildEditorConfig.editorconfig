@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
-build_property.ProjectDir = /home/maith/Desktop/CsharpBlog/Blog/
+build_property.ProjectDir = /home/maith/Desktop/CSharpBlog/Blog/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/maith/Desktop/CsharpBlog/Blog
+build_property.MSBuildProjectDirectory = /home/maith/Desktop/CSharpBlog/Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Create.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Delete.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Details.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Edit.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Post/Index.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Post/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/Error.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/_ViewImports.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/_ViewStart.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/maith/Desktop/CsharpBlog/Blog/Views/Shared/_Layout.cshtml]
+[/home/maith/Desktop/CSharpBlog/Blog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-abvrrlg6qb
