@@ -10,9 +10,15 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
+<<<<<<< HEAD
             "program": "${workspaceFolder}/Blog/bin/Debug/net7.0/Blog.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Blog",
+=======
+            "program": "${workspaceFolder}/blog/Blog/bin/Debug/net7.0/Blog.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/blog/Blog",
+>>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {

@@ -7,7 +7,11 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/Blog/Blog.csproj",
+=======
+                "${workspaceFolder}/blog/Blog/Blog.csproj",
+>>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +23,11 @@
             "type": "process",
             "args": [
                 "publish",
+<<<<<<< HEAD
                 "${workspaceFolder}/Blog/Blog.csproj",
+=======
+                "${workspaceFolder}/blog/Blog/Blog.csproj",
+>>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +41,11 @@
                 "watch",
                 "run",
                 "--project",
+<<<<<<< HEAD
                 "${workspaceFolder}/Blog/Blog.csproj"
+=======
+                "${workspaceFolder}/blog/Blog/Blog.csproj"
+>>>>>>> 3386ca6 (Blog Tutorial CSharp C# ASP.Net asp.net ASP.NET)
             ],
             "problemMatcher": "$msCompile"
         }
