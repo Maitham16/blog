@@ -1,0 +1,7 @@
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/Blog
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/appsettings.Development.json
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/appsettings.json
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/Blog.dll
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/Blog.deps.json
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/Blog.runtimeconfig.json
+/home/maith/Desktop/CsharpBlog/Blog/bin/Release/net7.0/publish/Blog.pdb
