@@ -1,0 +1,20 @@
+@model Blog.Models.Post
+
+<h2>Create New Post</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="ShortDesc">Short Description</label>
+        <input asp-for="ShortDesc" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Body">Body</label>
+        <textarea asp-for="Body" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-controller="Post" asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
