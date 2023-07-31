@@ -9,6 +9,36 @@
     <p>Posted: @Model.Posted</p>
 </div>
 
+<h3>Comments</h3>
+
+@if(Model.Comments != null && Model.Comments.Count > 0)
+{
+    foreach(var comment in Model.Comments)
+    {
+        <div>
+            <p>@comment.Body</p>
+            <p>Posted: @comment.Posted</p>
+        </div>
+    }
+}
+else
+{
+    <p>No comments yet.</p>
+}
+
+<h3>Add a Comment</h3>
+<form asp-controller="Post" asp-action="Comment" method="post">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div>
+        <label for="Body">Your Comment</label>
+        <textarea name="Body" rows="4" cols="50"></textarea>
+    </div>
+    <div>
+        <button type="submit">Post Comment</button>
+    </div>
+</form>
+
+
 <p>
     <a asp-controller="Post" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
     <a asp-controller="Post" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Blog.Data;
 using Blog.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blog.Controllers
 {
@@ -31,7 +32,7 @@ namespace Blog.Controllers
                 return NotFound();
             }
 
-            Post? post = _context.Posts?.FirstOrDefault(p => p.Id == id);
+            Post? post = _context.Posts?.Include(p => p.Comments).FirstOrDefault(p => p.Id == id);
 
             if (post == null)
             {
@@ -147,6 +148,46 @@ namespace Blog.Controllers
             _context.SaveChanges();
 
             return RedirectToAction(nameof(Index));
+        }
+        // GET: /Post/Comment/5
+        public IActionResult Comment(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            Post? post = _context.Posts?.Include(p => p.Comments).FirstOrDefault(p => p.Id == id);
+
+            if (post == null)
+            {
+                return NotFound();
+            }
+
+            return View(post);
+        }
+
+        // POST: /Post/Comment/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Comment(int id, [Bind("Body")] Comment comment)
+        {
+            Post? post = _context.Posts?.Include(p => p.Comments).FirstOrDefault(p => p.Id == id);
+            if (post == null)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                comment.Posted = DateTime.Now;
+                comment.PostId = id;
+                _context.Comments?.Add(comment);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Details), new { id = id });
+            }
+
+            return View(post);
         }
     }
 }

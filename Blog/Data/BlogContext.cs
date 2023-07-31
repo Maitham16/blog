@@ -10,6 +10,7 @@ namespace Blog.Data
         {
         }
 
-        public DbSet<Post>? Posts { get; set; } // Make the Posts property nullable
+        public DbSet<Post>? Posts { get; set; } 
+        public DbSet<Comment>? Comments { get; set; }
     }
 }
